@@ -1,5 +1,4 @@
-1) The No.1 Reactor |
----------------------
+# Part 1 - Reactor 1
 
 Items: 2 Potions, Ether
 

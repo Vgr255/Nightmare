@@ -1,3 +1,6 @@
 # Archive files
 *.rar
 *.zip
+
+# Image files
+*.jpg

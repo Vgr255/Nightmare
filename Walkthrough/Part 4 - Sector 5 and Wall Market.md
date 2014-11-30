@@ -1,10 +1,10 @@
-4) Sector 5 |
--------------
-Items: None
+# Part 4 - Sector 5 and Wall Market
 
-Hidden Items: None
+Items:
 
-Materia: None
+Hidden Items:
+
+Materia:
 
 Recommended Level: |
 --------------------
@@ -74,36 +74,64 @@ Outside of the church, there's a guy standing there. Don't talk to him; He'll
 steal 1000 Gil, and you need everything you can get. A Hidden Item is outside
 the Church:
 
-hdn_itm_52 - 2 Phoenix Downs
+2 Phoenix Downs:
+
+![hdn_itm_52](https://cloud.githubusercontent.com/assets/4260395/5238465/6c64336e-7889-11e4-82ba-03bdc134a265.jpg)
 
 On the next screen where you took the Nightmare Triva quiz, are 3 more Hidden
 Items:
 
-hdn_itm_53.jpg - Potion
-hdn_itm_54.jpg - Potion
-hdn_itm_55.jpg - Potion
+Potions:
+
+![hdn_itm_53](https://cloud.githubusercontent.com/assets/4260395/5238466/6c6adc32-7889-11e4-9c3a-e5a0f6e60c53.jpg)
+
+![hdn_itm_54](https://cloud.githubusercontent.com/assets/4260395/5238468/6c6f546a-7889-11e4-8f83-7ba5caf34962.jpg)
+
+![hdn_itm_55](https://cloud.githubusercontent.com/assets/4260395/5238467/6c6f0d20-7889-11e4-8945-6eb4cafb165d.jpg)
 
 That's a lot of Potions. On the next screen with the entrance to the F-ed up
 road lies 3 more Hidden Items:
 
-hdn_itm_56.jpg - 269 Gil
-hdn_itm_57.jpg - Grenade
-hdn_itm_58.jpg - Grenade
+269 Gil:
+
+![hdn_itm_56](https://cloud.githubusercontent.com/assets/4260395/5238469/6c780506-7889-11e4-95dc-672c4faf387e.jpg)
+
+Grenades:
+
+![hdn_itm_57](https://cloud.githubusercontent.com/assets/4260395/5238470/6c7a19d6-7889-11e4-9b56-4a57bd2658c6.jpg)
+
+![hdn_itm_58](https://cloud.githubusercontent.com/assets/4260395/5238472/6c7d5c54-7889-11e4-8a99-8f7898145f53.jpg)
 
 On the screen with the Sector 5 Town lies 5 Hidden Items, and one regular
 item. The regular item is a Spread Materia. But I can't find it, is the
 problem.
 
-hdn_itm_59.jpg - Potion
-hdn_itm_60.jpg - Antidote
-hdn_itm_61.jpg - 366 Gil
-hdn_itm_62.jpg - 265 Gil
-hdn_itm_63.jpg - 42 Gil
+Potion:
+
+![hdn_itm_59](https://cloud.githubusercontent.com/assets/4260395/5238471/6c7c9404-7889-11e4-91df-1fc4e4757629.jpg)
+
+Antidote:
+
+![hdn_itm_60](https://cloud.githubusercontent.com/assets/4260395/5238473/6c8361f8-7889-11e4-9255-e3818325ab2e.jpg)
+
+366 Gil
+
+![hdn_itm_61](https://cloud.githubusercontent.com/assets/4260395/5238474/6c87746e-7889-11e4-99c7-3446c7934b06.jpg)
+
+265 Gil:
+
+![hdn_itm_62](https://cloud.githubusercontent.com/assets/4260395/5238475/6c89af68-7889-11e4-9e0f-ad95db76fd78.jpg)
+
+42 Gil:
+
+![hdn_itm_63](https://cloud.githubusercontent.com/assets/4260395/5238476/6c8d7b66-7889-11e4-9f36-4552b2d9fd68.jpg)
 
 If anyone finds that Spread, please let me know. Into the house on the far
 right, on the bottom floor is one Hidden Item:
 
-hdn_itm_64.jpg - Energy Drink
+Energy Drink:
+
+![hdn_itm_64](https://cloud.githubusercontent.com/assets/4260395/5238478/6c911154-7889-11e4-81b8-339143565c1e.jpg)
 
 On the top floor is a Turtle's Paradise flyer. Read it, it's helpful! Talk to
 the kid, open the hidden drawer, and don't take the 50 gil. You'll get a
@@ -111,22 +139,31 @@ better item later.
 
 In the Item Shop (closest to where you exited) is a hidden item.
 
-hdn_itm_65.jpg - Mega Potion
+Mega Potion:
+
+![hdn_itm_65](https://cloud.githubusercontent.com/assets/4260395/5238477/6c912608-7889-11e4-9d20-d933d22b1c32.jpg)
 
 Nothing really grand enough to buy in the shop, unless you want more Grenades
 or Phoenix Downs. In the Materia Shop is another Hidden Item.
 
-hdn_itm_66.jpg - 4 Tranquilizers
+4 Tranquilizers:
+
+![hdn_itm_66](https://cloud.githubusercontent.com/assets/4260395/5238480/6c98d268-7889-11e4-8e39-d2e3cf7385ca.jpg)
 
 At the Materia Shop, buy Transmute (Mini and Frog) and Cold (Ice), costing a
 total of 7000 gil. You probably don't have much more than that. There's
 Materia to buy in Wall Market too, and they're EXPENSIVE AS HELL. So we're
 gonna do some money grinding after we find our Hidden Items.
 
-At Aerith's house, there's 2 more Hidden Items, and 2 real itemshdn_itm:
+At Aerith's house, there's 2 more Hidden Items, and 2 real items:
 
-hdn_itm_67.jpg - Moon Stone (Casts Regen)
-hdn_itm_68.jpg - Sun Stone (Casts Barrier/MBarrier)
+Moon Stone (Casts Regen):
+
+![hdn_itm_67](https://cloud.githubusercontent.com/assets/4260395/5238479/6c98432a-7889-11e4-9fd4-f48b3857c830.jpg)
+
+Sun Stone (Casts Barrier/MBarrier):
+
+![hdn_itm_68](https://cloud.githubusercontent.com/assets/4260395/5238481/6c9ccee0-7889-11e4-92f3-ebd85efd762a.jpg)
 
 At the top of the garden on the left is a purple dot. That's Guard, which is
 Cover. Shove that onto Cloud. It really helps. We'll later give that to
@@ -150,19 +187,37 @@ Transmute is so we can cast Mini on those who are susceptible to make fights
 easier. Once you set everyone up, head into Aerith's house and rest. On the
 floor with the bedrooms is a Hidden Item.
 
-hdn_itm_69.jpg - Antidote
+Antidote:
+
+![hdn_itm_69](https://cloud.githubusercontent.com/assets/4260395/5238482/6ca5a056-7889-11e4-98e1-e71731c57566.jpg)
 
 On the bottom floor are 2 Hidden Items:
 
-hdn_itm_70.jpg - Ether
-hdn_itm_71.jpg - High Potion
+Ether:
+
+![hdn_itm_70](https://cloud.githubusercontent.com/assets/4260395/5238483/6ca743c0-7889-11e4-9cab-1171b8f68262.jpg)
+
+High Potion:
+
+![hdn_itm_71](https://cloud.githubusercontent.com/assets/4260395/5238484/6caa2298-7889-11e4-9990-f2b322341778.jpg)
 
 Onto the F-ed up road, there are 4 Hidden Items, and 1 real item:
 
-hdn_itm_72.jpg - Grenade
-hdn_itm_73.jpg - Potion (I got pincer'd here by Whole Eaters, just a warning)
-hdn_itm_74.jpg - 222 Gil
-hdn_itm_75.jpg - 6 Gil
+Grenade:
+
+![hdn_itm_72](https://cloud.githubusercontent.com/assets/4260395/5238485/6cadab66-7889-11e4-8eb2-2457879f77ac.jpg)
+
+Potion (I got pincer'd here by Whole Eaters, just a warning):
+
+![hdn_itm_73](https://cloud.githubusercontent.com/assets/4260395/5238486/6cae377a-7889-11e4-9e10-075ebce30571.jpg)
+
+222 Gil:
+
+![hdn_itm_74](https://cloud.githubusercontent.com/assets/4260395/5238487/6cb4c07c-7889-11e4-9feb-090bfed805b7.jpg)
+
+6 Gil:
+
+![hdn_itm_75](https://cloud.githubusercontent.com/assets/4260395/5238488/6cb6e334-7889-11e4-82f8-034b93fc7221.jpg)
 
 Head into the crane next to the pipe, and examine the controls to get a Luck
 Plus materia. Stick that on Cloud.
@@ -170,57 +225,101 @@ Plus materia. Stick that on Cloud.
 At the playground, there's a few Hidden Items. I don't know the exact amount;
 some of them are done irregularly. So I may miss a few here.
 
-hdn_itm_76.jpg - Tissue
-hdn_itm_77.jpg - Power+
+Tissue:
+
+![hdn_itm_76](https://cloud.githubusercontent.com/assets/4260395/5238489/6cbe6622-7889-11e4-994d-50a90d5034dd.jpg)
+
+Power+:
+
+![hdn_itm_77](https://cloud.githubusercontent.com/assets/4260395/5238490/6cc1db54-7889-11e4-8796-601379531470.jpg)
 
 Crawling into the little mouse near the entrance, you can find a High Potion.
 I think the "Materia Get" sound effect is wrong... On to the transition
 screen before Wall Market, lies 2 more Hidden Items:
 
-hdn_itm_78.jpg - Potion
-hdn_itm_79.jpg - 28 Gil
+Potion:
+
+![hdn_itm_78](https://cloud.githubusercontent.com/assets/4260395/5238491/6cc3dd78-7889-11e4-925a-a4e01ce191e5.jpg)
+
+28 Gil:
+
+![hdn_itm_79](https://cloud.githubusercontent.com/assets/4260395/5238492/6cc44ed4-7889-11e4-8c66-31291906f50e.jpg)
 
 On the first main Wall Market screen are 3 Hidden Items:
 
-hdn_itm_80.jpg - Steroids
-hdn_itm_81.jpg - High Potion
-hdn_itm_82.jpg - Mutagen (Vaccine) (This one's a bit finnicky to get)
+Steroids:
+
+![hdn_itm_80](https://cloud.githubusercontent.com/assets/4260395/5238494/6cccbc9a-7889-11e4-9b06-bb64b001ce95.jpg)
+
+High Potion:
+
+![hdn_itm_81](https://cloud.githubusercontent.com/assets/4260395/5238493/6ccbf56c-7889-11e4-8872-e4ecaf4dd9a6.jpg)
+
+Mutagen (Vaccine) (This one's a bit finnicky to get):
+
+![hdn_itm_82](https://cloud.githubusercontent.com/assets/4260395/5238495/6ccf91e0-7889-11e4-9fca-4b9c6b10ea27.jpg)
 
 Up one screen, to the next part of Wall Market, lies 3 Hidden Items:
 
-hdn_itm_83.jpg - Tent
-hdn_itm_84.jpg - Iron Bangle
-hdn_itm_85.jpg - Mythril Saber
+Tent:
+
+![hdn_itm_83](https://cloud.githubusercontent.com/assets/4260395/5238496/6cd28738-7889-11e4-828c-ddc5a90d001c.jpg)
+
+Iron Bangle:
+
+![hdn_itm_84](https://cloud.githubusercontent.com/assets/4260395/5238497/6cd67726-7889-11e4-8516-cc66a00d575f.jpg)
+
+Mythril Saber:
+
+![hdn_itm_85](https://cloud.githubusercontent.com/assets/4260395/5238498/6cdd74b8-7889-11e4-965d-255909bc7140.jpg)
 
 Just sell the Mythril Saber; you should already have one. Alternatively, you
 could skip out on buying one in Sector 7, and then get it for free here.
 
 On the screen with the entrance to Corneo's place has 2 more Hidden Items:
 
-hdn_itm_86.jpg - 638 Gil
-hdn_itm_87.jpg - Molotov Cocktail (It's spelled "Moletov Cocktail" in-game)
+638 Gil:
+
+![hdn_itm_86](https://cloud.githubusercontent.com/assets/4260395/5238499/6ce6e066-7889-11e4-92a9-4070f48458fc.jpg)
+
+Molotov Cocktail (It's spelled "Moletov Cocktail" in-game):
+
+![hdn_itm_87](https://cloud.githubusercontent.com/assets/4260395/5238500/6ceb1fd2-7889-11e4-88c1-9e708a9f9628.jpg)
 
 On the screen with the Shiny Wire of Hope is a Hidden Item.
 
-hdn_itm_88.jpg - 571 Gil
+571 Gil:
+
+![hdn_itm_88](https://cloud.githubusercontent.com/assets/4260395/5238501/6ced5acc-7889-11e4-8dfc-aeb7248a7d03.jpg)
 
 In the gym (where you do squats) has a Hidden Item:
 
-hdn_itm_89.jpg - Steroids
+Steroids:
+
+![hdn_itm_89](https://cloud.githubusercontent.com/assets/4260395/5238502/6ced6ea4-7889-11e4-84ea-6db5487585cb.jpg)
 
 In the restaurant next to the gym has a Hidden Item:
 
-hdn_itm_90.jpg - 199 Gil
+199 Gil:
+
+![hdn_itm_90](https://cloud.githubusercontent.com/assets/4260395/5238503/6cf51c26-7889-11e4-942a-d1876bb768a4.jpg)
 
 In the Inn (near the entrance to Wall Market) has 2 Hidden Items:
 
-hdn_itm_91.jpg - High Potion
-hdn_itm_92.jpg - Ether
+High Potion:
+
+![hdn_itm_91](https://cloud.githubusercontent.com/assets/4260395/5238504/6d003a0c-7889-11e4-9917-cb7231a6e3a7.jpg)
+
+Ether:
+
+![hdn_itm_92](https://cloud.githubusercontent.com/assets/4260395/5238505/6d04da26-7889-11e4-8b84-db2c2c3dbed8.jpg)
 
 In the restaurant (Where you get the Pharmacy Coupon) lies the final Hidden
 Item for Wall Market:
 
-hdn_itm_93.jpg - Guard+ (Guard Source) (Don't sit down to get to this)
+Guard+ (Guard Source) (Don't sit down to get to this):
+
+![hdn_itm_93](https://cloud.githubusercontent.com/assets/4260395/5238507/6d0be992-7889-11e4-8fc4-1b9f936108fe.jpg)
 
 I'm certain you're more than tired of collecting Hidden Items, but looking at
 all of this, that's a huge edge. Still no prize this time. These rewards get
@@ -304,11 +403,15 @@ Well.
 Head into the top room, and the bee furthest from the exit will put makeup
 on you. There's a Hidden Item in this room:
 
-hdn_itm_94.jpg - Phoenix Down
+Phoenix Down:
+
+![hdn_itm_94](https://cloud.githubusercontent.com/assets/4260395/5238506/6d0bb332-7889-11e4-9f64-781a7429d882.jpg)
 
 Back in the main room, there's another Hidden Item:
 
-hdn_itm_95.jpg - 667 Gil
+667 Gil:
+
+![hdn_itm_95](https://cloud.githubusercontent.com/assets/4260395/5238508/6d135ee8-7889-11e4-9a30-b3ac2500bd38.jpg)
 
 I actually missed the picture for that one, that's why it looks different.
 Before continuing, make sure you're Level 16. That was the level I was at when
@@ -318,12 +421,15 @@ Cross-Dress! (I hope someone gets that)
 Now that we're inside of the sex house, let's grab some Hidden Items! There's
 1 Hidden Item in the main room, and 1 real item:
 
-hdn_itm_96.jpg - 477 Gil
+477 Gil:
+
+![hdn_itm_96](https://cloud.githubusercontent.com/assets/4260395/5238509/6d21908a-7889-11e4-9d36-cd8fc65ceb22.jpg)
 
 The real item is an Ether. It's behind the sign downstairs.
 
-hdn_itm_97.jpg - Torture Set (1/35 Soldier, Dropout Curse, Resizer, Basilisk
-Eye, and Sharp Tooth)
+Torture Set (1/35 Soldier, Dropout Curse, Resizer, Basilisk Eye, and Sharp Tooth):
+
+![hdn_itm_97](https://cloud.githubusercontent.com/assets/4260395/5238510/6d34d3a2-7889-11e4-9998-fb6d289408c7.jpg)
 
 Now, there's 6 Hidden Items we can't get at the moment if you get chosen by
 Corneo. Don't worry, we'll get them later. When you're in Corneo's bedroom,
@@ -376,12 +482,17 @@ Maybe that fight was not as tough as I said. But it is if you're not prepared.
 There's Hidden Items to get here, too. 2 of 'em. There's a Fury Fragment (or a
 High Potion) near the trash by the gate. It's in a white bag.
 
-hdn_itm_98.jpg - Green Ooze
-hdn_itm_99.jpg - Green Ooze
+Green Oozes:
+
+![hdn_itm_98](https://cloud.githubusercontent.com/assets/4260395/5238511/6d378aca-7889-11e4-8e48-161fbcb5bea6.jpg)
+
+![hdn_itm_99](https://cloud.githubusercontent.com/assets/4260395/5238513/6d3a2942-7889-11e4-89d4-b37ff74d7732.jpg)
 
 Hop down, and grab the next Hidden Item:
 
-hdn_itm_100.jpg - Green Ooze
+Green Ooze:
+
+![hdn_itm_100](https://cloud.githubusercontent.com/assets/4260395/5238512/6d3a0db8-7889-11e4-9466-d1c56b31e5a8.jpg)
 
 Head up through the hole in the gate, and turn the red valve right in front of
 you. You'll see a materia float down the stream. But HURRY! It'll disappear

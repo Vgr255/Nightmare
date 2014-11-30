@@ -1,5 +1,5 @@
-3) The No.5 Reactor   |
------------------------
+# Part 3 - Reactor 5
+
 Items: Phoenix Pinion, 2 High Potions, 10 High Potions, 10 Eye Drops,
 3 Ethers, Lixir, Lixir, Mako Potion, 2 Energy Drinks, Tent, 5 High Potions,
 Steel Bangle

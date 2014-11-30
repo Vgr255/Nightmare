@@ -1,6 +1,6 @@
 ## Final Fantasy VII Nightmare Overhaul Guide
 
-This guide is created and updated by NeuroSephiroth; it is formatted and maintaned by Vgr. [Original thread][0].
+This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread here][0].
 
 ### Quick Navigation:
 

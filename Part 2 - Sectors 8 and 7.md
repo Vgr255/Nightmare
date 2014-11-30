@@ -2,46 +2,68 @@
 --------------------------
 Items: 3 Potions, Ether 
 ------------------------------------------------------------------------------
-Hidden Items: Grenade, Grenade, Grenade, Potion, Potion, Ether, 250 Gil,     |
-Green Ooze, Cannon Shell, 1000 Gil, Energy Drink, 100 Gil, 65 Gil,           |
-Molotov Cocktail, Void Debris, Salamander Stone, Jupiter Piece,              |
-Reactor Fragment, 2 Smoke Bombs, Landmine, 74 Gil, Assault Gun, 144 Gil,     |
-Steroids                                                                     |
-------------------------------------------------------------------------------
+Hidden Items: Grenade, Grenade, Grenade, Potion, Potion, Ether, 250 Gil, 
+Green Ooze, Cannon Shell, 1000 Gil, Energy Drink, 100 Gil, 65 Gil, 
+Molotov Cocktail, Void Debris, Salamander Stone, Jupiter Piece, 
+Reactor Fragment, 2 Smoke Bombs, Landmine, 74 Gil, Assault Gun, 144 Gil, 
+Steroids
+
 Materia: Spread
+
 ------------------------------------------------------------------------------
 Recommended Level: Cloud-LVL 7 |
 ------------------------------------------------------------------------------
 Guide: After the bomb explodes and the mini-speech, we have hidden items to
 pick up:
 
-hdn_itm_11.jpg - Grenade
-hdn_itm_12.jpg - Grenade
-hdn_itm_13.jpg - Grenade
-hdn_itm_14.jpg - Potion
+Grenades:
+
+![hdn_itm_11](https://cloud.githubusercontent.com/assets/4260395/5236410/67abb03c-7806-11e4-8e7e-e98511f62022.jpg)
+
+![hdn_itm_12](https://cloud.githubusercontent.com/assets/4260395/5236411/67b73c4a-7806-11e4-8678-3e5372d5da17.jpg)
+
+![hdn_itm_13](https://cloud.githubusercontent.com/assets/4260395/5236412/67bb0712-7806-11e4-96b5-baa71595d892.jpg)
+
+Potion:
+
+![hdn_itm_14](https://cloud.githubusercontent.com/assets/4260395/5236413/67be9620-7806-11e4-99fa-7f0941be9122.jpg)
 
 Lots of Grenades. Up the stairs, and on to the next screen. After the talk
 with the flower lady, two more hidden items to pick up:
 
-hdn_itm_15.jpg - Potion
-hdn_itm_16.jpg - Ether
+Potion:
+
+![hdn_itm_15](https://cloud.githubusercontent.com/assets/4260395/5236414/67c1bcec-7806-11e4-9fb3-e88a0c7db457.jpg)
+
+Ether:
+
+![hdn_itm_16](https://cloud.githubusercontent.com/assets/4260395/5236415/67c71cbe-7806-11e4-8b13-7be70cc62f06.jpg)
 
 On the next screen, we have two hidden items, and one actual item:
 
-hdn_itm_17.jpg - 250 Gil
-hdn_itm_18.jpg - Green Ooze (Deadly Waste)
+250 Gil:
+
+![hdn_itm_17](https://cloud.githubusercontent.com/assets/4260395/5236416/67ca4506-7806-11e4-8cf6-d3e6810149f9.jpg)
+
+Green Ooze (Deadly Waste):
+
+![hdn_itm_18](https://cloud.githubusercontent.com/assets/4260395/5236417/67ce0ed4-7806-11e4-9431-5a1e5ae9b7dd.jpg)
 
 Oh, the actual item is 3 Potions. When you head down to the next screen, DON'T
 MOVE. On the left side of the screen is a hidden item, and it's very easy to
 miss. If you head down too far, and you didn't get the item, you can never get
 this again.
 
-hdn_itm_19.jpg - Cannon Shell (8-Inch Cannon)
+Cannon Shell (8-Inch Cannon):
+
+![hdn_itm_19](https://cloud.githubusercontent.com/assets/4260395/5236418/67d2b8c6-7806-11e4-88fb-f44f50d5bfe3.jpg)
 
 Don't fight the battles, conserve your resources. On the train, there's a
 hidden item. A very useful one.
 
-hdn_itm_20.jpg - 1000 Gil
+1000 Gil:
+
+![hdn_itm_20](https://cloud.githubusercontent.com/assets/4260395/5236419/67d348fe-7806-11e4-8d0e-ae2f6fc8d5aa.jpg)
 
 No hidden items on the train. Once you arrive at Sector 7, don't worry about
 Hidden Items; we'll want to grab all of those later, it'd be too confusing if
@@ -61,20 +83,61 @@ I'll get to managing Materia in a second.
 Here are all of the hidden items in sector 7. You should know where all of
 these places are:
 
-hdn_itm_21.jpg - Energy Drink
-hdn_itm_22.jpg - 100 Gil
-hdn_itm_23.jpg - 65 Gil
-hdn_itm_24.jpg - Molotov Cocktail (Molotov)
-hdn_itm_25.jpg - Void Debris
-hdn_itm_26.jpg - Salamander Stone
-hdn_itm_27.jpg - Jupiter Piece
-hdn_itm_28.jpg - Reactor Fragment
-hdn_itm_29.jpg - 2 Smoke Bombs
-hdn_itm_30.jpg - Jessie's Bomb (This is a Landmine, which is an S-Mine)
-hdn_itm_31.jpg - 74 Gil
-hdn_itm_32.jpg - Assault Gun
-hdn_itm_33.jpg - 144 Gil
-hdn_itm_34.jpg - Steroids
+Energy Drink:
+
+![hdn_itm_21](https://cloud.githubusercontent.com/assets/4260395/5236420/67d83774-7806-11e4-9111-d59db5209387.jpg)
+
+100 Gil:
+
+![hdn_itm_22](https://cloud.githubusercontent.com/assets/4260395/5236421/67db7eac-7806-11e4-95cc-416c059bd415.jpg)
+
+65 Gil:
+
+![hdn_itm_23](https://cloud.githubusercontent.com/assets/4260395/5236422/67df502c-7806-11e4-8693-3a187a50ef22.jpg)
+
+Molotov Cocktail (Molotov):
+
+![hdn_itm_24](https://cloud.githubusercontent.com/assets/4260395/5236423/67e23922-7806-11e4-97c7-ea4cb8c344f8.jpg)
+
+Void Debris:
+
+![hdn_itm_25](https://cloud.githubusercontent.com/assets/4260395/5236424/67e604d0-7806-11e4-8205-ba462af5b643.jpg)
+
+Salamander Stone:
+
+![hdn_itm_26](https://cloud.githubusercontent.com/assets/4260395/5236425/67e90acc-7806-11e4-896c-b37db6d3cace.jpg)
+
+Jupiter Piece:
+
+![hdn_itm_27](https://cloud.githubusercontent.com/assets/4260395/5236426/67ed94de-7806-11e4-93e2-b2a131db4c5b.jpg)
+
+Reactor Fragment:
+
+![hdn_itm_28](https://cloud.githubusercontent.com/assets/4260395/5236427/67f0573c-7806-11e4-91f3-aa3aea79b7b7.jpg)
+
+2 Smoke Bombs:
+
+![hdn_itm_29](https://cloud.githubusercontent.com/assets/4260395/5236428/67f135e4-7806-11e4-9d4a-69dbc13ad01c.jpg)
+
+Jessie's Bomb (This is a Landmine, which is an S-Mine):
+
+![hdn_itm_30](https://cloud.githubusercontent.com/assets/4260395/5236429/67f74556-7806-11e4-9f6d-a02ae04b7779.jpg)
+
+74 Gil:
+
+![hdn_itm_31](https://cloud.githubusercontent.com/assets/4260395/5236430/67fcc2c4-7806-11e4-866f-2de2badc4274.jpg)
+
+Assault Gun:
+
+![hdn_itm_32](https://cloud.githubusercontent.com/assets/4260395/5236431/67ff8fa4-7806-11e4-9af1-9ff78516f162.jpg)
+
+144 Gil:
+
+![hdn_itm_33](https://cloud.githubusercontent.com/assets/4260395/5236432/68039b58-7806-11e4-92f9-0edbda1649d7.jpg)
+
+Steroids:
+
+![hdn_itm_34](https://cloud.githubusercontent.com/assets/4260395/5236433/6805b190-7806-11e4-90da-ba85ef8149a3.jpg)
 
 To get the last hidden item, either refuse to sleep there, or accept, and once
 Cloud wakes up, walk over and grab it. At this point, if you go back to (any)

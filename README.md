@@ -1,10 +1,6 @@
 ## Final Fantasy VII Nightmare Overhaul Guide
 
-This repository is to have all the documentation in an easy-to-access and easily-editable environment.
-
-This guide was first created by NeuroSephiroth. [Original thread here][0].
-
-It is updated by NeuroSephiroth. It is formatted and maintained by Vgr.
+This guide is created and updated by NeuroSephiroth; it is formatted and maintaned by Vgr. [Original thread][0].
 
 ### Quick Navigation:
 

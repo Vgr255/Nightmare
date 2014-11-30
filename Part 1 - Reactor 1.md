@@ -8,8 +8,10 @@ Hidden Items: Energy Drink, 100 Gil, 2 Grenades, Potion, 85 Gil, 2 Potions,
 
 Materia: Flame
 
-Recommended Level: Cloud-LVL 1 |
---------------------------------
+Recommended Level: |
+--------------------
+Cloud-LVL 1 |
+
 Guide: Alright, so hit "New Game" and get playin'! After the intro cutscene,
 you'll see Zack there. Wait, Zack? Yeah, he's like a tutorial for this. Just
 a bit of a briefing for what's ahead. Go ahead and read it, it's pretty cool.

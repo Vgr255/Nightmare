@@ -1,59 +1,68 @@
-Limit Breaks |
---------------
+##Limit Breaks
+
 Every Limit Break in Nightmare VII has been renamed, had its effect changed,
 or both. This section covers them in detail.
 
 We'll go in order from appearence by character.
-------------------------------------------------------------------------------
-Cloud |
+
+### Cloud 
+
+Jump Attack                                                                 |
 -----------------------------------------------------------------------------
-Jump Attack:                                                                 |
- Level 1-1                                                                   |
- Initially Learned                                                           |
- Removes Shield and Peerless, Ignores Defense                                |
+Level 1-1                                                                   |
+Initially Learned                                                           |
+Removes Shield and Peerless, Ignores Defense                                |
+
+Seal Slash                                                                  |
 -----------------------------------------------------------------------------
-Seal Slash:                                                                  |
- Level 1-2                                                                   |
- Use Jump Attack 56 times                                                    |
- Inflicts Paralysis                                                          |
+Level 1-2                                                                   |
+Use Jump Attack 56 times                                                    |
+Inflicts Paralysis                                                          |
+
+Mako Beam                                                                   |
 -----------------------------------------------------------------------------
-Mako Beam:                                                                   |
- Level 1-3 (That is not a typo)                                              |
- Use Seal Slash 154 times                                                    |
- The diffusing beam inflicts Paralysis, Ignores Defense                      |
+Level 1-3 (That is not a typo)                                              |
+Use Seal Slash 154 times                                                    |
+The diffusing beam inflicts Paralysis, Ignores Defense                      |
+
+Mako Beam                                                                   |
 -----------------------------------------------------------------------------
-Mako Beam:                                                                   |
- Level 2-1 (Still not a typo)                                                |
- Kill 1230 enemies with Cloud                                                |
- The diffusing beam inflicts Paralysis. Ignores Defense                      |
+Level 2-1 (Still not a typo)                                                |
+Kill 1230 enemies with Cloud                                                |
+The diffusing beam inflicts Paralysis. Ignores Defense                      |
+
+Hellsplitter                                                                |
 -----------------------------------------------------------------------------
-Hellsplitter:                                                                |
- Level 2-2                                                                   |
- Use Mako Beam (2-1) 112 times                                               |
- Auto Critical, Ignores Defense                                              |
+Level 2-2                                                                   |
+Use Mako Beam (2-1) 112 times                                               |
+Auto Critical, Ignores Defense                                              |
+
+Celestial Rain                                                              |
 -----------------------------------------------------------------------------
-Celestial Rain:                                                              |
- Level 2-3                                                                   |
- Use Hellsplitter 268 times                                                  |
- No Special Effects                                                          |
+Level 2-3                                                                   |
+Use Hellsplitter 268 times                                                  |
+No Special Effects                                                          |
+
+Celestial Rain                                                              |
 -----------------------------------------------------------------------------
-Celestial Rain:                                                              |
- Level 3-1                                                                   |
- Kill 2970 enemies with Cloud                                                |
- No Special Effects                                                          |
+Level 3-1                                                                   |
+Kill 2970 enemies with Cloud                                                |
+No Special Effects                                                          |
+
+Death Spiral                                                                |
 -----------------------------------------------------------------------------
-Death Spiral:                                                                |
- Level 3-2                                                                   |
- Use Celestial Rain 178 times                                                |
- Inflicts Death. If enemy is immune to Death, No Special Effects             |
+Level 3-2                                                                   |
+Use Celestial Rain 178 times                                                |
+Inflicts Death. If enemy is immune to Death, No Special Effects             |
+
+Omnislash                                                                   |
 -----------------------------------------------------------------------------
-Omnislash                                                                    |
- Level 3-3                                                                   |
- Use Death Spiral 433 times                                                  |
- Ignores Defense, Auto Critical                                              |
+Level 3-3                                                                   |
+Use Death Spiral 433 times                                                  |
+Ignores Defense, Auto Critical                                              |
+
+Omnislash                                                                   |
 -----------------------------------------------------------------------------
-Omnislash
- Level 4
- Steal from Hojo, Win from Omega, Buy in Gold Saucer Battle Square
- Ignores Defense, Auto Critical
-------------------------------------------------------------------------------
+Level 4                                                                     |
+Steal from Hojo, Win from Omega, Buy in Gold Saucer Battle Square           |
+Ignores Defense, Auto Critical                                              |

@@ -1,7 +1,7 @@
 2) Sector 8 and Sector 7 |
 --------------------------
 Items: 3 Potions, Ether 
-------------------------------------------------------------------------------
+
 Hidden Items: Grenade, Grenade, Grenade, Potion, Potion, Ether, 250 Gil, 
 Green Ooze, Cannon Shell, 1000 Gil, Energy Drink, 100 Gil, 65 Gil, 
 Molotov Cocktail, Void Debris, Salamander Stone, Jupiter Piece, 
@@ -10,7 +10,6 @@ Steroids
 
 Materia: Spread
 
-------------------------------------------------------------------------------
 Recommended Level: Cloud-LVL 7 |
 ------------------------------------------------------------------------------
 Guide: After the bomb explodes and the mini-speech, we have hidden items to

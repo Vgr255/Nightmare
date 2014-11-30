@@ -4,17 +4,18 @@ Items: Phoenix Pinion, 2 High Potions, 10 High Potions, 10 Eye Drops,
 3 Ethers, Lixir, Lixir, Mako Potion, 2 Energy Drinks, Tent, 5 High Potions,
 Steel Bangle
 
-------------------------------------------------------------------------------
 Hidden Items: Power+, 2 Fury Fragments, 455 Gil, 4 Smoke Bombs, 5 Potions,
 3 High Potions, 2 Ethers, Green Ooze, Metal Knuckle, 2 Antidotes, 2 Grenades,
 Ether, Reactor Fragment, Green Ooze, 2 Phoenix Downs, 228 Gil, 197 Gil
 
 Materia: Rock, Spread
 
-------------------------------------------------------------------------------
-Recommended Level: Cloud-LVL 10 | Barret-LVL 10 | Tifa-LVL 10
+Recommended Level: |
+------------------
+Cloud-LVL 10     |
+Barret-LVL 10    |
+Tifa-LVL 10      |
 
-------------------------------------------------------------------------------
 Guide: The story proceeds as normal until you jump off the train. Let me begin
 by saying you WANT to make it to the end of the train. For making it to the
 end, this ensures you go through as few screens as possible to get to the
@@ -181,9 +182,9 @@ if you want. There's no Save Point near Air Buster, so this is the closest
 one. You don't get a prize for reaching 51 Items, sadly. Run to the top, watch
 the cutscene, and let the battle begin!
 
-------------------------------------------------------------------------------
-Air Buster
-HP: 15000
+Boss: Air Buster |
+-----------------
+HP: 15000 |
 
 Air Buster is the first real tough fight in Nightmare VII. His Big Bomber is
 a force to be reckoned with. Fortunately, he can only use it 4 times.
@@ -204,7 +205,5 @@ other side attack Air Buster, and he'll turn (even if he doesn't attack), and
 then use the Limit Break.
 
 For winning, you get a Steel Bangle, which is a Titan Bangle.
-
-------------------------------------------------------------------------------
 
 Now Cloud will fall down. On to the business in Sector 5!

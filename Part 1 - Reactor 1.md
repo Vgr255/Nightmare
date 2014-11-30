@@ -1,4 +1,3 @@
-------------------------------------------------------------------------------
 1) The No.1 Reactor |
 ---------------------
 
@@ -9,7 +8,6 @@ Hidden Items: Energy Drink, 100 Gil, 2 Grenades, Potion, 85 Gil, 2 Potions,
 
 Materia: Flame
 
---------------------------------
 Recommended Level: Cloud-LVL 1 |
 --------------------------------
 Guide: Alright, so hit "New Game" and get playin'! After the intro cutscene,
@@ -104,7 +102,6 @@ run back up to the screen with the bridge (where Biggs is), and start grinding
 there. When you think you're ready, run to the boss room, and initiate the
 first boss fight of the mod.
 
------------------------------------------------------------------------
 Boss: Guard Scorpion                                                  |
 -----------------------------------------------------------------------
 HP: 5000                                                              |
@@ -137,8 +134,6 @@ to 201 after the fight, so heal up!
 
 For winning this fight, you get a cannon shell. Which is an 8-Inch Cannon.
 Keep that around; you may need it for a later fight...
-
-------------------------------------------------------------------------------
 
 Before leaving, the final hidden item of the reactor is in the boss room:
 

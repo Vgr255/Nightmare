@@ -2,16 +2,14 @@
 -------------
 Items: None
 
-------------------------------------------------------------------------------
 Hidden Items: None
 
-------------------------------------------------------------------------------
 Materia: None
 
-------------------------------------------------------------------------------
-Recommended Level: Cloud-LVL 11
+Recommended Level: |
+--------------------
+Cloud-LVL 11 |
 
-------------------------------------------------------------------------------
 Guide: So... Wanna know the truth? Either option doesn't matter. Aerith the
 Flower Girl is here, and she is a goddess of Magic. She has about 450 MP, and
 incredibly high magic. She's our magician, sure enough!

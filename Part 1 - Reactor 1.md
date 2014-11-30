@@ -1,17 +1,17 @@
 ------------------------------------------------------------------------------
 1) The No.1 Reactor |
 ---------------------
-Items: 2 Potions, Ether |
--------------------------
+
+Items: 2 Potions, Ether
 
 Hidden Items: Energy Drink, 100 Gil, 2 Grenades, Potion, 85 Gil, 2 Potions, 
 50 Gil, Grenade, Reactor Fragment, Assault Gun
 
-------------------------------------------------------------------------------
-Materia: Flame                                                               |
-------------------------------------------------------------------------------
+Materia: Flame
+
+--------------------------------
 Recommended Level: Cloud-LVL 1 |
-------------------------------------------------------------------------------
+--------------------------------
 Guide: Alright, so hit "New Game" and get playin'! After the intro cutscene,
 you'll see Zack there. Wait, Zack? Yeah, he's like a tutorial for this. Just
 a bit of a briefing for what's ahead. Go ahead and read it, it's pretty cool.
@@ -104,10 +104,11 @@ run back up to the screen with the bridge (where Biggs is), and start grinding
 there. When you think you're ready, run to the boss room, and initiate the
 first boss fight of the mod.
 
-------------------------------------------------------------------------------
-Guard Scorpion:
-HP: 5000
-AI: Search Scope, Scorpion Tail, Search Scope, Rifle, {Raise} {Lower}
+-----------------------------------------------------------------------
+Boss: Guard Scorpion                                                  |
+-----------------------------------------------------------------------
+HP: 5000                                                              |
+AI: Search Scope, Scorpion Tail, Search Scope, Rifle, {Raise} {Lower} |
 
 Strategy: Few things to note before the battle begins. See the section above
 this, where it says "AI"? That's going to be his chance of using a certain

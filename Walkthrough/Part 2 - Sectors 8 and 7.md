@@ -1,5 +1,5 @@
-2) Sector 8 and Sector 7 |
---------------------------
+# Part 2 - Sector 8 and Sector 7
+
 Items: 3 Potions, Ether 
 
 Hidden Items: Grenade, Grenade, Grenade, Potion, Potion, Ether, 250 Gil, 

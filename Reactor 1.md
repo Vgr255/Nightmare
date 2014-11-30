@@ -2,9 +2,11 @@
 1) The No.1 Reactor |
 ---------------------
 Items: 2 Potions, Ether |
-------------------------------------------------------------------------------
-Hidden Items: Energy Drink, 100 Gil, 2 Grenades, Potion, 85 Gil, 2 Potions,  |
-50 Gil, Grenade, Reactor Fragment, Assault Gun                               |
+-------------------------
+
+Hidden Items: Energy Drink, 100 Gil, 2 Grenades, Potion, 85 Gil, 2 Potions, 
+50 Gil, Grenade, Reactor Fragment, Assault Gun
+
 ------------------------------------------------------------------------------
 Materia: Flame                                                               |
 ------------------------------------------------------------------------------
@@ -29,23 +31,44 @@ you, as difficult as this mod gets, you'll need everything you can get.
 
 Anyway, there are 3 hidden items to pick up on this screen:
 
-hdn_itm_01.jpg - Energy Drink (Speed Drink)
-hdn_itm_02.jpg - 100 Gil
-hdn_itm_03.jpg - 2 Grenades
+Energy Drink (Speed Drink):
+
+![hdn_itm_01](https://cloud.githubusercontent.com/assets/4260395/5236337/31af6426-7804-11e4-9c4b-666207197568.jpg)
+
+100 Gil:
+
+![hdn_itm_02](https://cloud.githubusercontent.com/assets/4260395/5236338/31b19160-7804-11e4-8e30-99072653cb4b.jpg)
+
+2 Grenades:
+
+![hdn_itm_03](https://cloud.githubusercontent.com/assets/4260395/5236339/31b607ea-7804-11e4-9fe9-623a589a2d61.jpg)
 
 Step to the AVALANCHE members and give Cloud and Barret names. On the next
 screen, there are 3 more hidden items:
 
-hdn_itm_04.jpg - Potion
-hdn_itm_05.jpg - 85 Gil
-hdn_itm_06.jpg - 2 Potions
+Potion:
+
+![hdn_itm_04](https://cloud.githubusercontent.com/assets/4260395/5236340/31b8b0b2-7804-11e4-8861-1db27bc62650.jpg)
+
+85 Gil:
+
+![hdn_itm_05](https://cloud.githubusercontent.com/assets/4260395/5236341/31bbc55e-7804-11e4-805e-ecbc9c610bfb.jpg)
+
+2 Potions:
+
+![hdn_itm_06](https://cloud.githubusercontent.com/assets/4260395/5236342/31bfb8ee-7804-11e4-935f-2d91dda72ae7.jpg)
 
 Advance to the next screen. Then take the bridge up and into the reactor, and
 Barret joins you. 2 more hidden items are on the screen where Barret joined
 you:
 
-hdn_itm_07.jpg - 50 Gil
-hdn_itm_08.jpg - Grenade
+50 Gil:
+
+![hdn_itm_07](https://cloud.githubusercontent.com/assets/4260395/5236343/31c48072-7804-11e4-8295-cc69cd153056.jpg)
+
+Grenade:
+
+![hdn_itm_08](https://cloud.githubusercontent.com/assets/4260395/5236344/31c618e2-7804-11e4-8b6d-af46d336b6b5.jpg)
 
 Especially these Grenades are important. You'll soon see why. Going to the
 elevator, 3 Shinra Guards will charge out and attack you. I'll let you handle
@@ -54,7 +77,9 @@ the next screen.
 
 Surprisingly, on this massive screen, there's just one hidden item:
 
-hdn_itm_09.jpg - Reactor Fragment (M-Tentacles)
+Reactor Fragment (M-Tentacles):
+
+![hdn_itm_09](https://cloud.githubusercontent.com/assets/4260395/5236345/31c9c0dc-7804-11e4-9ba9-e8712478d5b0.jpg)
 
 They seem useful, but keep them; they're useless against the first boss.
 Proceed down the reactor, grabbing all items along the way, down to the save
@@ -111,11 +136,14 @@ to 201 after the fight, so heal up!
 
 For winning this fight, you get a cannon shell. Which is an 8-Inch Cannon.
 Keep that around; you may need it for a later fight...
+
 ------------------------------------------------------------------------------
 
 Before leaving, the final hidden item of the reactor is in the boss room:
 
-hdn_itm_10.jpg - Assault Gun
+Assault Gun:
+
+![hdn_itm_10](https://cloud.githubusercontent.com/assets/4260395/5236346/31ced7d4-7804-11e4-9882-320d576a40ef.jpg)
 
 A treasure chest appears near the Omnipoint (which disappeared, to add another
 layer of intensity), containing 5 Smoke Bombs. Useful for running away, but

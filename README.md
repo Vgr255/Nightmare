@@ -12,7 +12,7 @@ This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread 
 
 [Part 3 - Reactor 5][3]
 
-[Part 4 - Sector 5][4]
+[Part 4 - Sector 5 and Wall Market][4]
 
 #### Equipment
 

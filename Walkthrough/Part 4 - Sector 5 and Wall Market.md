@@ -45,11 +45,13 @@ to grab them more than once.
 
 The answers, rewards, and games to the questions are:
 
-Q1 - Masked Man - 2 High Potions - Final Fantasy IX
-Q2 - Dragon Whip - 2 Ethers - Final Fantasy IV
-Q3 - 30,000 Gil - 5 Antidotes - Final Fantasy I
-Q4 - Kaali - Energy Drink - Final Fantasy II
-Q5 - Speed +1 - 500 Gil - Final Fantasy VI
+Q# - Answer - Reward - Game |
+-----------------------------
+Q1 - Masked Man - 2 High Potions - Final Fantasy IX |
+Q2 - Dragon Whip - 2 Ethers - Final Fantasy IV |
+Q3 - 30,000 Gil - 5 Antidotes - Final Fantasy I |
+Q4 - Kaali - Energy Drink - Final Fantasy II |
+Q5 - Speed +1 - 500 Gil - Final Fantasy VI |
 
 Head over to Aerith's house, and sleep. Walk out, and head out to the entrance
 to the F-ed up road. Into the playground, Aerith finds Tifa. And yes, I just

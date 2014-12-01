@@ -55,7 +55,7 @@ Q5 - Speed +1 - 500 Gil - Final Fantasy VI |
 
 Head over to Aerith's house, and sleep. Walk out, and head out to the entrance
 to the F-ed up road. Into the playground, Aerith finds Tifa. And yes, I just
-speedran those directions.
+speedran those directions. You can go down the elephant slide (by crawling in) and then letting Aerith do the same by talking to her. If you crawl into the elephant slide and slide down with Aerith, you get 3 extra materia (Nuclear, Analyse and Spirit+).
 
 Be VERY careful here. Aerith is alone, and she is extremely weak. I got into
 a fight with 4 Whole Eaters, and they killed her before I ran away :( Make
@@ -447,13 +447,13 @@ Aps |
 -----
 HP: 13333 |
 
-Birth of a God is playing here for a reason. Aps does not F around. Cloud is
-going to be our Tank, since the Hard Edge increases his Vitality by 20. He
-has Guard, and the 3 Spreads, to up his Vitality and HP as much as possible.
-He'll also be defending. Tifa is going to be our physical attacker, which is
-why she has Luck+. Aerith is going to be our magic user, and Aps is weak
-against Earth. We have Cold because it inflicts Slow. We have Steel Bangles,
-because they Halve Water, something that is vital against Sewer Tsunami.
+Aps does not F around. Cloud is going to be our Tank, since the Hard Edge
+increases his Vitality by 20. He has Guard, and the 3 Spreads, to up his
+Vitality and HP as much as possible. He'll also be defending. Tifa is going
+to be our physical attacker, which is why she has Luck+. Aerith is going to
+be our magic user, and Aps is weak against Earth. We have Cold because it
+inflicts Slow. We have Steel Bangles, because they Halve Water, something
+that is vital against Sewer Tsunami.
 
 Open the battle with a casting of Blizzard (Ice2), Tremor (Quake2), and a
 physical from Tifa. Tremor deals about 700 damage, Blizzard deals about 325
@@ -498,7 +498,9 @@ Green Ooze:
 
 Head up through the hole in the gate, and turn the red valve right in front of
 you. You'll see a materia float down the stream. But HURRY! It'll disappear
-eventually. It's Thief, which is Steal. Our most useful Materia yet.
+eventually. It's Thief, which is Steal. Our most useful Materia yet. If you
+wait a bit more, Steal+ and Speed+ (Increases dexterity). eventually come
+floating.
 
 You see, almost all bosses have stuff to steal. The Steal is SO much more
 useful than the drop. But the steal rate is... rather low. About 5-20%,

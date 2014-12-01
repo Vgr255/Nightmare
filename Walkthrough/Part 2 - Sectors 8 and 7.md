@@ -10,8 +10,10 @@ Steroids
 
 Materia: Spread
 
-Recommended Level: Cloud-LVL 7 |
-------------------------------------------------------------------------------
+Recommended Level: |
+--------------------
+Cloud-LVL 7 |
+
 Guide: After the bomb explodes and the mini-speech, we have hidden items to
 pick up:
 
@@ -162,7 +164,7 @@ for some grinding?
 Before that, Materia needs to be set. You should have Bolt, Flame, and 2
 Spreads. Give Cloud Bolt-Spread, and give Tifa Flame-Spread. This is how we're
 going to be grinding, saving our limit breaks for Air Buster. Don't use your
-items; They're all extremely important.
+items; they're all extremely important.
 
 You probably have a small amount of gil. Well, maybe a few thousand. In order
 to make some fights later on easier, we're gonna need some extra levels. So

@@ -28,12 +28,12 @@ When you reach the crossbeams at the very top, in the far right, is a shiny
 brown dot. Run straight ahead, and then right to grab a Carob Nut. Then hop
 on out of here.
 
-Talk to Aerith once you gain control, and she'll give you a Restore Materia.
-VERY useful, link it to Spread and give it to Aerith, and NEVER take it off
-of her. She may also give you an assortment of items, Moon Sugar, Ether, High
-Potion, and a Spider Web. She may also give you a Mind+ and a Spirit+, which
-is a Mind Source and a Spirit Source. Currently, it's bugged, and only gives
-the Mind+.
+Talk to Aerith once you gain control, and she'll give something depending on
+how well you did in the soldier chasing minigame. If you did good, you'll get
+a Restore Materia. If you perform very poorly, you'll get Moon sugar, Spider
+web, High potion and Ether. Doing moderately good yields 4 sources (2 Magic+,
+2 Mind+). Aim for the Restore Materia; VERY useful, link it to Spread and give
+it to Aerith, and NEVER take it off of her.
 
 Once Aerith tells you to go to her house, if you leave this screen and come
 back, you'll see a moogle. He'll ask you some questions about other Final
@@ -55,7 +55,10 @@ Q5 - Speed +1 - 500 Gil - Final Fantasy VI |
 
 Head over to Aerith's house, and sleep. Walk out, and head out to the entrance
 to the F-ed up road. Into the playground, Aerith finds Tifa. And yes, I just
-speedran those directions. You can go down the elephant slide (by crawling in) and then letting Aerith do the same by talking to her. If you crawl into the elephant slide and slide down with Aerith, you get 3 extra materia (Nuclear, Analyse and Spirit+).
+speedran those directions. You can go down the elephant slide (by crawling in)
+and then letting Aerith do the same by talking to her. If you crawl into the
+elephant slide and slide down with Aerith, you get 3 extra materia (Nuclear,
+Analyse and Spirit+).
 
 Be VERY careful here. Aerith is alone, and she is extremely weak. I got into
 a fight with 4 Whole Eaters, and they killed her before I ran away :( Make
@@ -72,9 +75,10 @@ A quick look at the Hidden Items shows that you have 51 out of 93. Still no
 prize, I see. Let's head back to Sector 5 (after re-equipping Aerith with
 useful Materia), and let's grab some Hidden Items!
 
-Outside of the church, there's a guy standing there. Don't talk to him; He'll
-steal 1000 Gil, and you need everything you can get. A Hidden Item is outside
-the Church:
+Outside of the church, there's a guy standing there. Don't talk to him; He will
+steal 1000 gil if you have 1000 gil, otherwise he will steal nothing, up to 25
+times. After the 25th time, you receive 2 Mako Potion and 2 Mako Ether. Try not
+to get stolen, you need everything you can get. A Hidden Item is outside the Church:
 
 2 Phoenix Downs:
 
@@ -104,9 +108,7 @@ Grenades:
 
 ![hdn_itm_58](https://cloud.githubusercontent.com/assets/4260395/5238472/6c7d5c54-7889-11e4-8a99-8f7898145f53.jpg)
 
-On the screen with the Sector 5 Town lies 5 Hidden Items, and one regular
-item. The regular item is a Spread Materia. But I can't find it, is the
-problem.
+On the screen with the Sector 5 Town lies 5 Hidden Items:
 
 Potion:
 
@@ -128,8 +130,7 @@ Antidote:
 
 ![hdn_itm_63](https://cloud.githubusercontent.com/assets/4260395/5238476/6c8d7b66-7889-11e4-9f36-4552b2d9fd68.jpg)
 
-If anyone finds that Spread, please let me know. Into the house on the far
-right, on the bottom floor is one Hidden Item:
+Into the house on the far right, on the bottom floor is one Hidden Item:
 
 Energy Drink:
 
@@ -371,6 +372,11 @@ talk to the old guy on the right. Pick Sexy and Highclass. VERY important that
 you do this. It's extremely important that you are picked for Corneo, else you
 will have a tough(er) time getting to Aps in good condition.
 
+There is an event in the north wall market. I'll leave you to figure this one
+out. Search (and by that I mean, mash OK) around the trash near the weapon shop.
+This can give you a Thief materia early (Aps does not have something to steal
+but this will give you a second Thief materia in the sewers for maximum stealing power).
+
 Head back to the dress shop and get the dress. Head to the gym, and do some
 squats. It's the same as in the original game, very easy to win. You get the
 Blonde Wig. Let's tone the woman up!
@@ -385,7 +391,8 @@ that sells that stuff. Kuugen has quite the imagination.
 Head into the restaurant (Down and left to where you came out) and eat there.
 Say "Pretty Good" to get a Pharmacy Coupon. Head into the item shop, and he'll
 ask you what medicine you want. Pick Acucyline, and it'll give you the
-Bisnafitorial. You want to get the Bisnafitorial, the text is bugged.
+Bisnafitorial. You want to get the Bisnafitorial; since the guy is stoned to
+Heaven and messes up your command.
 
 Head back to Sector 5, and in the town, up at the top is a guy with a hat
 wearing a green sweater. Give him the Bisnafitorial, and he'll ask you how
@@ -443,7 +450,7 @@ has Cold (also Level 2 unlocked), give Cloud the Hard Edge, Guard, and all of
 your Spreads, heal up, and get ready for the toughest boss fight yet.
 
 ------------------------------------------------------------------------------
-Aps |
+Boss: Aps |
 -----
 HP: 13333 |
 
@@ -481,8 +488,10 @@ Which is a new item. It's a VERY strong water attack. SAVE IT.
 
 ------------------------------------------------------------------------------
 Maybe that fight was not as tough as I said. But it is if you're not prepared.
-There's Hidden Items to get here, too. 2 of 'em. There's a Fury Fragment (or a
-High Potion) near the trash by the gate. It's in a white bag.
+There's Hidden Items to get here, too. 2 of 'em. Near the trash by the gate,
+in the white bag, is one out of 7 possible items depending on the second timer
+of the game timer. In order; Phoenix down, High potion, Tranquilizer, Rockmelt,
+Moon sugar, Voice enhancer and over 6 seconds is Fury fragment.
 
 Green Oozes:
 
@@ -499,7 +508,7 @@ Green Ooze:
 Head up through the hole in the gate, and turn the red valve right in front of
 you. You'll see a materia float down the stream. But HURRY! It'll disappear
 eventually. It's Thief, which is Steal. Our most useful Materia yet. If you
-wait a bit more, Steal+ and Speed+ (Increases dexterity). eventually come
+wait a bit more, Steal+ and Speed+ (Increases dexterity) eventually come
 floating.
 
 You see, almost all bosses have stuff to steal. The Steal is SO much more

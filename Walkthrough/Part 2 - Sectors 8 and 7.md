@@ -178,3 +178,13 @@ Oh, and don't bother trying for new Limits. Want an example? To learn Cloud's
 1-2 Limit Break, Jump Attack must be used ~55 times. Yeah. That's gonna take
 a while. Anyway, whenever you're ready, board the train and let's get out of
 Sector 7.
+
+[**Back to previous part**][1]
+
+[**Proceed with next part**][2]
+
+[**Back to Index**][3]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%201%20-%20Reactor%201.md
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md
+[3]: https://github.com/Vgr255/Nightmare#walkthrough

@@ -207,3 +207,13 @@ then use the Limit Break.
 For winning, you get a Steel Bangle, which is a Titan Bangle.
 
 Now Cloud will fall down. On to the business in Sector 5!
+
+[**Back to previous part**][1]
+
+[**Proceed with next part**][2]
+
+[**Back to Index**][3]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%202%20-%20Sectors%208%20and%207.md
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%204%20-%20Sector%205%20and%20Wall%20Market.md
+[3]: https://github.com/Vgr255/Nightmare#walkthrough

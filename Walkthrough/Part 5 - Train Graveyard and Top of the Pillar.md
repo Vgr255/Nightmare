@@ -111,4 +111,13 @@ wearer immune to Poison. The text incorrectly says sleep, it's supposed to be
 poison. This armor is going to be especially useful for our next boss fight...
 
 Follow the story until you're supposed to go to Aerith's house. Head back to
-Wall Market and save. That's it for this section!
+Wall Market and save.
+
+[**Back to previous part**][1]
+
+[**Back to Index**][2]
+
+*Note: Due to a crash in the Shin-Ra HQ, this guide will not be updated for a while. Updates will resume when Kuugen fixes the bug.*
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%204%20-%20Sector%205%20and%20Wall%20Market.md
+[2]: https://github.com/Vgr255/Nightmare#walkthrough

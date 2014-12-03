@@ -24,7 +24,7 @@ modified Braver) ready to go. Open with Bolt-All, and then use the Jump
 Attack, then start picking them off. You shouldn't need to heal.
 
 In the next area, there are a few hidden items. Whenever a hidden item is
-accessible, I will point you to the screenshot that came with this guide.
+accessible, the appropriate screenshot will be given.
 There are hundreds of hidden items littered about this mod, and let me tell
 you, as difficult as this mod gets, you'll need everything you can get.
 

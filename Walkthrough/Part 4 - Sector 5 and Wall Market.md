@@ -517,5 +517,14 @@ depending on Level. This will result in lots and lots of stealing. But oh, is
 it worth it.
 
 At the save point, you should have 100 of 100 Hidden Items. Still no prize.
-Not a problem, we'll get one soon. And that's where this next update will end.
-See you in the next one!
+Not a problem, we'll get one soon.
+
+[**Back to previous part**][1]
+
+[**Proceed with next part**][2]
+
+[**Back to Index**][3]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md
+[3]: https://github.com/Vgr255/Nightmare#walkthrough

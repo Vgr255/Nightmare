@@ -157,3 +157,10 @@ You want to run, mashing the circle button (like the prompt says), stopping at
 the elevator. You'll get in a fight with 6 soldiers. Throw 2 Grenades, and you
 win. The rest of the escape is not different, so run out and let's proceed
 with the game.
+
+[**Proceed with next part**][1]
+
+[**Back to Index**][2]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%202%20-%20Sectors%208%20and%207.md
+[2]: https://github.com/Vgr255/Nightmare#walkthrough

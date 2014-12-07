@@ -1,15 +1,21 @@
-6) The Shinra Building Extravaganza!
+# 6 - The Shinra Building Extravaganza!
 
-Recommended Level: Cloud-LVL 16  Barret-LVL 14  Tifa-LVL 14
+Recommended Level: |
+--------------------
+Cloud-LVL 16 |
+Barret-LVL 14 |
+Tifa-LVL 14 |
                                                                               
-Guide: After visiting Aerith's house and seeing the horribly off center text
+Guide: Visit Aerith's house and see the horribly off center text
 with the flashback concerning Elmyra's husband. When that's done, go into the
 house with the Turtle's Paradise flyer, and talk to the kid. If you looked at
 and didn't steal the 50 Gil, he'll give you a Turbo Ether.
 
 When you get back to the destroyed Playground, there is a Hidden Item:
 
-hdn_itm_111.jpg - Void Debris
+Void Debris:
+
+![hdn_itm_111](https://cloud.githubusercontent.com/assets/4260395/5330991/2c2732a0-7de4-11e4-8e20-837de854f702.jpg)
 
 In Wall Market, take a peek at the Save Point. You should have 111 of 111
 Hidden Items. Time for the Shinra-fest! Next to the weapon shop (The one that
@@ -35,14 +41,18 @@ Building.
 Climb the Shiny Wire of Hope. When you get to the second battery station,
 DON'T USE IT. You'll miss a Hidden Item:
 
-hdn_itm_112,jpg - Grenade
+Grenade:
+
+![hdn_itm_112](https://cloud.githubusercontent.com/assets/4260395/5330992/2c2d0694-7de4-11e4-93c4-c798ed10ee03.jpg)
 
 When you get to the part where you gotta jump on the wire, keep moving up.
 You'll climb on the wire and be at the third battery station. Use another to
 get an Arctic Wind. Climb down the wire on the right side to get to the second
 Hidden Item of the first screen:
 
-hdn_itm_113.jpg - Landmine
+Landmine:
+
+![hdn_itm_113](https://cloud.githubusercontent.com/assets/4260395/5330993/2c311c16-7de4-11e4-85f5-29388e98a349.jpg)
 
 And the battery port reset, so put in your last battery and get another Arctic
 Wind. Climb up the rest of the wire to reach the Shinra Building. This'll get
@@ -51,9 +61,17 @@ interesting!
 First, after the introductions at the front of the building, head back one
 screen. There are 3 Hidden Items here:
 
-hdn_itm_114.jpg - Mythril Claw
-hdn_itm_115.jpg - Hard Edge
-hdn_itm_116.jpg - Cannon Ball
+Mythril Claw:
+
+![hdn_itm_114](https://cloud.githubusercontent.com/assets/4260395/5330994/2c35a3da-7de4-11e4-8021-1dce70503ff7.jpg)
+
+Hard Edge:
+
+![hdn_itm_115](https://cloud.githubusercontent.com/assets/4260395/5330995/2c36e966-7de4-11e4-91b6-f2f0cac93995.jpg)
+
+Cannon Ball:
+
+![hdn_itm_116](https://cloud.githubusercontent.com/assets/4260395/5330997/2c3a095c-7de4-11e4-9228-70607b1778ed.jpg)
 
 Let's take the stairs. On the screen where Barret's asking "Are we there yet?",
 there is a Mega Elixir on the screen. It's about halfway up, in a white bag,
@@ -68,23 +86,38 @@ money as we can get.
 Examine the Turtle's Paradise poster in the back. Head upstairs one floor, and
 there's 2 Hidden Items here:
 
-hdn_itm_117.jpg - Potion
-hdn_itm_118.jpg - Ether
+Potion:
+
+![hdn_itm_117](https://cloud.githubusercontent.com/assets/4260395/5330996/2c39a6d8-7de4-11e4-9579-734179cd1a71.jpg)
+
+Ether:
+
+![hdn_itm_118](https://cloud.githubusercontent.com/assets/4260395/5330998/2c407134-7de4-11e4-8ceb-1fec8680e522.jpg)
 
 Head into the item shop. There's a Hidden Item in here:
 
-hdn_itm_119.jpg - 122 Gil
+122 Gil:
+
+![hdn_itm_119](https://cloud.githubusercontent.com/assets/4260395/5330999/2c44e7b4-7de4-11e4-9e82-9aa4863bf632.jpg)
 
 Head up one more floor, and there's another Hidden Item:
 
-hdn_itm_120.jpg - 222 Gil
+222 Gil:
+
+![hdn_itm_120](https://cloud.githubusercontent.com/assets/4260395/5331000/2c47e34c-7de4-11e4-8df0-24d3a9053639.jpg)
 
 On floor 60, don't get caught by the guards. That's it. No Hidden Items or
 anything. On Floor 61, there's 3 Hidden Items:
 
-hdn_itm_121.jpg - Energy Drink
-hdn_itm_122.jpg - Energy Drink
-hdn_itm_123.jpg - 976 Gil
+Energy Drinks:
+
+![hdn_itm_121](https://cloud.githubusercontent.com/assets/4260395/5331001/2c4cc088-7de4-11e4-83f0-d18165aa4233.jpg)
+
+![hdn_itm_122](https://cloud.githubusercontent.com/assets/4260395/5331002/2c4f2418-7de4-11e4-964d-8b5f794adf26.jpg)
+
+976 Gil:
+
+![hdn_itm_123](https://cloud.githubusercontent.com/assets/4260395/5331003/2c4f48a8-7de4-11e4-9f16-990d15a82d5c.jpg)
 
 There's a puzzle here in this floor. Talk to the girl near the elevator, and
 let her teach you things. Next, talk to the guy with a blue jacket and brown
@@ -98,18 +131,25 @@ There's a girl near the tree. Take it to her, and she'll point you to someone
 walking around in a grey suit. He'll sign it and give you the Keycard 62. All
 of this to get a damn piece of paper signed.
 
-On floor 62, talk to Mayor Domino. DO NOT ENTER THE TOP SET OF BOOKCASES. As
+On floor 62, talk to Mayor Domino. **DO NOT ENTER THE TOP SET OF BOOKCASES**. As
 of current, they are bugged and will crash your game if you enter them. This
 currently makes it impossible to get all Hidden Items. It's being worked on.
 There's a Hidden Item here:
 
-hdn_itm_124.jpg - Bomb Fragment
+Bomb Fragment:
+
+![hdn_itm_124](https://cloud.githubusercontent.com/assets/4260395/5331005/2c58cf72-7de4-11e4-90a1-eff0feddae5c.jpg)
 
 Enter the bottom set of bookcases (with the yellow and blue bookcases).
 There's 2 Hidden Items here:
 
-hdn_itm_125.jpg - Green Ooze
-hdn_itm_126.jpg - Mega Gong
+Green Ooze:
+
+![hdn_itm_125](https://cloud.githubusercontent.com/assets/4260395/5331004/2c56dbc2-7de4-11e4-8d75-92cea3bc7d3b.jpg)
+
+Mega Gong:
+
+![hdn_itm_126](https://cloud.githubusercontent.com/assets/4260395/5331006/2c605292-7de4-11e4-8a41-f36b36dfd3bb.jpg)
 
 You should already know how to solve this password, but just in case
 you don't, there's 4 libraries (even though we only have access to 2). The
@@ -126,9 +166,15 @@ it reduces your stats SOOOO terribly.
 On Floor 63, we get a free pass. The minigame is disabled, for whatever
 reason. On Floor 64, we have 3 Hidden Items to get:
 
-hdn_itm_127.jpg - Energy Drink
-hdn_itm_128.jpg - Energy Drink
-hdn_itm_129.jpg - Steroids
+Energy Drinks:
+
+![hdn_itm_127](https://cloud.githubusercontent.com/assets/4260395/5331007/2c65bd9a-7de4-11e4-8480-1e3c1fa3e4c4.jpg)
+
+![hdn_itm_128](https://cloud.githubusercontent.com/assets/4260395/5331008/2c672216-7de4-11e4-8cbb-6fb43a5a984c.jpg)
+
+Steroids:
+
+![hdn_itm_129](https://cloud.githubusercontent.com/assets/4260395/5331009/2c6a1af2-7de4-11e4-822b-9710165fa0d3.jpg)
 
 In the lockers up top, in the bottom row is 10 Phoenix Downs. In the middle
 row is 10 Ethers. In the top row is the HP Shout. But, just like in the
@@ -144,7 +190,9 @@ do. Head back down to the save point and rest (using a Tent, the first time
 you should've had to). Save, grab the Hidden Item up on Floor 65, and let's
 prepare for the battle to come.
 
-hdn_itm_130.jpg - 451 Gil
+451 Gil:
+
+![hdn_itm_130](https://cloud.githubusercontent.com/assets/4260395/5331010/2c6d44a2-7de4-11e4-84ad-cf58d679fcd1.jpg)
 
 Oh boy, our next boss fight is so much fun. You know what that means? I HATE
 this goddamn fight! We need 3 elemental resistances against Fire, Ice, and
@@ -157,26 +205,36 @@ protection.
 
 Set up your materia like this:
 
-Cloud: Thief=Luck+
+Cloud: |
+--------
+Thief=Luck+ |
 
-Barret: Spread=Spread Spread
-        Guard
+Barret: |
+---------
+Spread=Spread |
+Spread |
+Guard |
 
-Tifa: Rock=Spread
-      Thief
+Tifa: |
+-------
+Rock=Spread |
+Thief |
 
 We're gonna steal from these bosses (there's 3 of them), and these are gonna
 give us a large edge. Grab the 66 Keycard, and let's engage in a battle with
 the most fearsome squad in Shinra.
                                                                               
-Locke
-HP: 12500
+Locke |
+-------
+HP: 12500 |
 
-Venus
-HP: 11100
+Venus |
+-------
+HP: 11100 |
 
-Theo
-HP: 15500
+Theo |
+------
+HP: 15500 |
                                                                               
 Strategy: Each soldier has a 32% chance of having their item stolen from them.
 With Tifa and Cloud stealing, it shouldn't take so long. IMMEDIATELY have
@@ -208,7 +266,6 @@ time if you really want to make Theo non-threatening.
 
 Theo's final attack is Virkelightens Doed, which is something in a different
 language, I think. Just physically attack Locke until he dies.
-                                                                              
 
 It's an easy fight, but holy hell, does it take a while. Run back down and use
 another Tent, and let's look at our booty!
@@ -222,8 +279,13 @@ we'd have gotten nothing.
 
 Let's go to Floor 66! There's 2 Hidden Items here:
 
-hdn_itm_131.jpg - 545 Gil
-hdn_itm_132.jpg - 877 Gil
+545 Gil:
+
+![hdn_itm_131](https://cloud.githubusercontent.com/assets/4260395/5331012/2c714f7a-7de4-11e4-8590-eadc31776319.jpg)
+
+877 Gil:
+
+![hdn_itm_132](https://cloud.githubusercontent.com/assets/4260395/5331011/2c70e01c-7de4-11e4-966e-6a64f0ab53eb.jpg)
 
 To climb up in the toilet room, talk to every NPC you can talk to on Floor 66.
 That unlocks the option in the dialog. Climb up, and watch the scenes. I was
@@ -233,8 +295,13 @@ I think. I don't know, I never played Dirge.
 
 On Floor 67, there's 2 Hidden Items:
 
-hdn_itm_133.jpg - Reactor Fragment
-hdn_itm_134.jpg - Poltergeist
+Reactor Fragment:
+
+![hdn_itm_133](https://cloud.githubusercontent.com/assets/4260395/5331013/2c771392-7de4-11e4-9891-72aa8fd79334.jpg)
+
+Poltergeist:
+
+![hdn_itm_134](https://cloud.githubusercontent.com/assets/4260395/5331014/2c7ac5a0-7de4-11e4-963f-7b206b043ba6.jpg)
 
 After the scene with Jenova (Cloud's a robot or something, I dunno, I'm sure
 that'll get cleared up later), head over to the save point. There's a Panaceca
@@ -246,19 +313,27 @@ be present in the next boss fight). Give Barret the Accelerator you got from
 Locke. Give cloud the Shinra Limited Edition, and the Tornado Pendant you got
 from Venus. Give Cloud the Mythril Saber. Set up your Materia like this:
 
-Cloud: Thief=Thief Luck+
-       Flame=Spread
+Cloud: |
+--------
+Thief=Thief |
+Luck+ |
+Flame=Spread |
 
-Barret: Spread=Spread Spread
-        Guard
+Barret: |
+---------
+Spread=Spread |
+Spread |
+Guard |
 
 Head up a Floor, give Red XIII a name, and send Tifa away. Let's do this!!
 
-Sample: H0512
-HP: 15000
+Sample: H0512 |
+---------------
+HP: 15000 |
 
-Sample: H0512-opt
-HP: 1111
+Sample: H0512-opt |
+-------------------
+HP: 1111 |
 
 Steal from Sample until you get the Hexer Overcoat. Have Cloud use Blaze on
 Sample twice. Have Barret use a Cannon Shell. It'll deal around 9000 damage to
@@ -269,12 +344,13 @@ Bite once. By the way, stealing from Sample can take forever. Despite the 16%
 chance, it can take FOREVER. Give Cloud an Energy Drink, so you can steal
 faster.
 
-
 For now, We'll stay with Barret and Red XIII. Grab the Rare Skill (which I
 will always from here on refer to as Enemy Skill). Before leaving, there's a
 Hidden Item to grab.
 
-hdn_itm_135.jpg - Mako Steroids
+Mako Steroids:
+
+![hdn_itm_135](https://cloud.githubusercontent.com/assets/4260395/5331015/2c7de870-7de4-11e4-8203-066ed5da3e07.jpg)
 
 The Hexer Overcoat (that we stole from Sample) makes the wearer immune to
 Frog and Mini, and halve Fire, Ice, Bolt, and Earth. Certainly very useful.
@@ -283,11 +359,16 @@ materia. These can make or break some strategies, depending on Level. Lots of
 things we've passed up can. Let's head back up a floor. There's 2 Hidden Items
 to get here:
 
-hdn_itm_136.jpg - Steroids
-hdn_itm_137.jpg - Mutagen
+Steroids:
+
+![hdn_itm_136](https://cloud.githubusercontent.com/assets/4260395/5331016/2c7e7cfe-7de4-11e4-914c-c80f32bfdb5f.jpg)
+
+Mutagen:
+
+![hdn_itm_137](https://cloud.githubusercontent.com/assets/4260395/5331017/2c86cec2-7de4-11e4-94c6-f72aeb23b84f.jpg)
 
 On the railing, there is a Panceca and a Lixir. Talk to the scientist here,
-and he'll give you a Phoenix Down, a Kiss, and Keycard 68. Throught the door
+and he'll give you a Phoenix Down, a Kiss, and Keycard 68. Through the door
 is a Panceca and an Antidote. Head down to Floor 66, go in the elevator, and
 watch the scenes unfold. When you wake up, it seems you've got some work to
 do.
@@ -304,21 +385,30 @@ Resistance is VERY important here.
 Give Cloud the Buster Sword, Aerith the Mythril Rod, and Tifa whatever you
 want. Set up your Materia like this:
 
-Cloud: Thief=Thief Luck+=Power+
-       Rare Skill
+Cloud: |
+--------
+Thief=Thief |
+Luck+=Power+ |
+Rare Skill |
 
-Aerith: Spread=Spread Spread=Spread
-        Cole=Magic+
+Aerith: |
+---------
+Spread=Spread |
+Spread=Spread |
+Cole=Magic+ |
 
-Tifa: Guard
-      Speed+
+Tifa: |
+-------
+Guard |
+Speed+ |
 
 Enter the Jenova Pod. Head all the way to the right, and you'll hear the
 Materia sound effect. Mash OK here, and you'll get Holy-. You'll also be
 thrust into a boss fight.
 
-Midgar Zolom
-HP: 32666
+Midgar Zolom |
+--------------
+HP: 32666 |
 
 Open the battle by giving Cloud an Energy Drink and 2 Steroids. Also move him
 in the front row. This will result in him dealing lots of damage per hit. Just
@@ -341,14 +431,16 @@ Zolom will wreck you.
 For winning, you get 2000 EXP, 200 AP, and not much else. Stealing doesn't
 work for some reason, so you can't get his Mega Lixir.
 
-
 Holy- is very useful, give it to Aerith. Also fully heal yourself, it's very
 easy to die at this point. Holy- lets you revive, making Phoenix Downs a
 little less useful. It takes forever to Level up, however. On Floor 69, we
 have 2 Hidden Items:
 
-hdn_itm_138.jpg - 500 Gil
-hdn_itm_139.jpg - 500 Gil
+500 Gil (2x):
+
+![hdn_itm_138](https://cloud.githubusercontent.com/assets/4260395/5331018/2c88ab8e-7de4-11e4-9178-a340b55790c1.jpg)
+
+![hdn_itm_139](https://cloud.githubusercontent.com/assets/4260395/5331019/2c8d1c5a-7de4-11e4-8f63-41dc7d07375a.jpg)
 
 Near the Save Point, there is a door. Up there are 2 Vending Machines. The
 left one seems to always give you a Potion, and the right one seems to give
@@ -356,7 +448,9 @@ you nothing. I must be missing something. Anyway, head up to Floor 70.
 Approach Shinra's desk, and watch the cutscene. Afterwards, there's a Hidden
 Item to grab:
 
-hdn_itm_140.jpg - 2000 Gil
+2000 Gil:
+
+![hdn_itm_140](https://cloud.githubusercontent.com/assets/4260395/5331020/2c912fac-7de4-11e4-87c0-5b2957d51fc4.jpg)
 
 Head out onto the balcony, and meet Rufus. After all of the scenes, we now
 have control of Aerith. Let's set up for the next boss battle.
@@ -367,18 +461,27 @@ Limited Edition. Give Barret the Hexer Overcoat, Red XIII the Accelerator, and
 Aerith the Tornado Pendant. We won't be using magic in this fight, except for
 Holy-. Set up your Materia like this:
 
-Aerith: Holy-=Spread
+Aerith: |
+---------
+Holy-=Spread |
 
-Barret: Power+=Speed+ Spread
-        Luck+=Guard   Spread
+Barret: |
+---------
+Power+=Speed+ |
+Spread |
+Luck+=Guard |
+Spread |
 
-Red XIII: Thief=Thief
+Red XIII: |
+-----------
+Thief=Thief |
 
 Fully heal everyone and save. Head to the elevator, and let's fight our next
 bosses!
 
-Hundred Gunner
-HP: 19887
+Hundred Gunner |
+----------------
+HP: 19887 |
 
 Give Barret a Mutagen and Steroids. He'll be doing about 300 damage. Red XIII
 will throw Grenades. Aerith will defend and use Ancient Wind when she gets it.
@@ -389,8 +492,9 @@ strategy, and he'll switch phases and start charging the Sensor Cannon. It'll
 most likely kill Aerith and Red XIII, so use Phoenix Downs when necessary.
 Eventually, Hundred will fall, but we're not done here yet.
 
-Heli Gunner
-HP: 14776
+Heli Gunner |
+-------------
+HP: 14776 |
 
 Less HP, and a bit easier. Barret should keep attacking, and Red XIII should
 still throw Grenades. That's about 900 damage per round. His AB and C Cannon
@@ -401,7 +505,6 @@ the same strategy, and he'll fall, probably after a Mega Blast from Barret.
 
 For winning, you get a Backup System, which is a Safety Bit.
 
-
 Cloud's turn. Let's set him up for the incoming battle with Rufus. But wait,
 an interruption from Tifa! Should we let her help? I say yes. The extra
 character will make this fight (and the stealing) easier. Let's set them up
@@ -411,20 +514,30 @@ Give Cloud the Buster Sword, Silver Bangle, and Backup System. Give Tifa the
 Mythril Claw, Carbon Bangle, and Hexer Overcoat. Set up your Materia like
 this:
 
-Cloud: Thief=Power+ Speed+=Spread
-       Element=Bolt Rock=Spread
+Cloud: |
+--------
+Thief=Power+ |
+Speed+=Spread |
+Element=Bolt |
+Rock=Spread |
 
-Tifa: Thief=Luck+ Magic+=Guard+
-      Spread=Spread Holy-
+Tifa: |
+-------
+Thief=Luck+ |
+Magic+=Guard+ |
+Spread=Spread |
+Holy- |
 
 Turn the battle speed all the way down. Proceed with the fight with Rufus. Oh
 boy, this is intense.
 
-Rufus
-HP: 6500
+Rufus |
+-------
+HP: 6500 |
 
-Dark Nation:
-HP: 5000
+Dark Nation |
+-------------
+HP: 5000 |
 
 Have Cloud open with Tremor-All. Hopefully, everyone will be Paralyzed. Start
 stealing from them. Dark Nation gives a Fury Ring, and Rufus gives another
@@ -440,7 +553,6 @@ Urge. Dark Nation is not immune to death.
 
 Now that Rufus is the only one left, start using Grenades. He'll fall very
 fast, since each Grenade does about 650 to him.
-
 
 You should already know what the Shinra Limited Edition does. The Fury Ring
 puts the wearer in Berserk, increases his Strength and Vitality by 50, and
@@ -463,14 +575,20 @@ Give Barret the Cannon Ball, Carbon Bangle, and Hexer Overcoat. Give Tifa the
 Mythril Claw, Shinra Limited Edition, and the Accelerator. Set up your Materia
 like this:
 
-Cloud: Thief=Luck+
-       Speed+=Holy-
+Cloud: |
+Thief=Luck+ |
+Speed+=Holy- |
 
-Barret: Guard
-        Spread=Spread Spread=Spread
+Barret: |
+---------
+Guard |
+Spread=Spread |
+Spread=Spread |
 
-Tifa: Thief
-      Cold=Magic+
+Tifa: |
+-------
+Thief |
+Cold=Magic+ |
 
 It's a dangerous boss fight we're about to enter. Everything's on the line
 here, and we have an item to steal. With a, you guessed it, 16% chance. When
@@ -482,8 +600,9 @@ the red ones. If any of the orange ones get ahead, quickly cut them down, and
 get the red bikes behind you and keep swinging. Eventually, you'll reach the
 end of the road. Time for the final boss fight for a while.
 
-Motor Ball
-HP: 30000
+Motor Ball |
+------------
+HP: 30000 |
 
 He'll open with a Back Attack, which is why we have everyone in the front row.
 Start Stealing, defending, and healing. You're probably running out of healing
@@ -521,7 +640,13 @@ Like I said, DO WHATEVER YOU HAVE TO TO WIN. This fight is not easy. It took
 me about a half an hour, but I eventually did it. His Final Attack is Rolling
 Fire. If he uses that out of nowhere, you probably won.
 
-
 Now, that's out of the way. Take a rest and pat yourself on the back; You beat
 Midgar! A feat that hasn't been done by many. Watch the cutscenes, and let's
 leave Midgar...
+
+[**Back to previous part**][1]
+
+[**Back to Index**][3]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md
+[3]: https://github.com/Vgr255/Nightmare#walkthrough

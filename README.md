@@ -16,6 +16,8 @@ This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread 
 
 [Part 5 - Train Graveyard and Top of the Pillar][w5]
 
+[Part 6 - The Shinra Building Extravaganza!][w6]
+
 #### Equipment
 
 [Weapons][e1]
@@ -44,12 +46,15 @@ This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread 
 
 [Part 5 - Train Graveyard and Top of the Pillar Hidden Items][hi5]
 
+[Part 6 - The Shinra Building Extravangza! Hidden Items][hi6]
+
 [0]: http://forums.qhimm.com/index.php?topic=15797.0
 [w1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%201%20-%20Reactor%201.md
 [w2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%202%20-%20Sectors%208%20and%207.md
 [w3]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md
 [w4]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%204%20-%20Sector%205%20and%20Wall%20Market.md
 [w5]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md
+[w6]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md
 [e1]: https://github.com/Vgr255/Nightmare/blob/master/Equipment/Weapons.md
 [e2]: https://github.com/Vgr255/Nightmare/blob/master/Equipment/Armor.md
 [e3]: https://github.com/Vgr255/Nightmare/blob/master/Equipment/Accessories.md
@@ -61,3 +66,4 @@ This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread 
 [hi3]: https://github.com/Vgr255/Nightmare/issues/3
 [hi4]: https://github.com/Vgr255/Nightmare/issues/4
 [hi5]: https://github.com/Vgr255/Nightmare/issues/5
+[hi6]: https://github.com/Vgr255/Nightmare/issues/6

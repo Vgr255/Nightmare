@@ -162,5 +162,5 @@ with the game.
 
 [**Back to Index**][2]
 
-[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%202%20-%20Sectors%208%20and%207.md
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%202%20-%20Sectors%208%20and%207.md#part-2---sector-8-and-sector-7
 [2]: https://github.com/Vgr255/Nightmare#walkthrough

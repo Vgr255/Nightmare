@@ -11,6 +11,16 @@ Recommended Level: |
 --------------------
 Cloud-LVL 1 |
 
+Notes: This guide is created and updated by NeuroSephiroth. It is edited,
+formatted and uploaded by Vgr. Any comment regarding the writing style or
+the general guide should be directed towards NeuroSephiroth. Any comment
+regarding the editing, such as clickable links and embedded images, should
+be directed towards Vgr. Typos and errors can be pointed out to Vgr.
+
+*Sometimes you will see italic text such as this one; they are comments
+made by Vgr, the editor, regarding something that was said or otherwise.
+They are not related to the guide, and are not part of the guide.*
+
 Guide: Alright, so hit "New Game" and get playin'! After the intro cutscene,
 you'll see Zack there. Wait, Zack? Yeah, he's like a tutorial for this. Just
 a bit of a briefing for what's ahead. Go ahead and read it, it's pretty cool.

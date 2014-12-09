@@ -385,3 +385,10 @@ accessory that increases your strength by 50.
 You'll have to do CPR on Priscila. It takes 41 breaths to revitalize her. Each
 "Lift" on the CPR Gauge counts as one. Head back out to the world map and
 save.
+
+[**Back to previous part**][1]
+
+[**Back to Index**][3]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#6---the-shinra-building-extravaganza
+[3]: https://github.com/Vgr255/Nightmare#walkthrough

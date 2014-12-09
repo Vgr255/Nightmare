@@ -525,6 +525,6 @@ Not a problem, we'll get one soon.
 
 [**Back to Index**][3]
 
-[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md
-[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md#part-3---reactor-5
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md#part-5---train-graveyard-and-top-of-the-pillar
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

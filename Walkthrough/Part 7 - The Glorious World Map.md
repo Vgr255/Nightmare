@@ -88,7 +88,8 @@ the Assault Gun, Shinra Limited Edition, and the Tornado Pendant. Give Tifa
 the Mythril Claw, Iron Bangle, and Flame Ring. Set up your Materia like this:
 
 Cloud: |
---------Thief=E.Skill |
+--------
+Thief=E.Skill |
 Magic+=Speed+ |
 Alterate=Holy- |
 
@@ -230,6 +231,9 @@ Pick Not Interested, Petrified, Wait a Second, That's Right, Let's Hurry, and
 you'll have Yuffie in your group. She has very low HP and even less MP. For
 now, let's stick with Cloud, Barret, and Tifa. It's a good mix of HP, MP, and
 stats.
+
+Worth of note: The Junon forest fights are among the best to level up early
+in the game.
 
 Head back into the Mythril Mines, and head into the room with Range+. Fight
 enemies here until you have 14,000 Gil. Go buy Gravity. Then go back to Kalm

@@ -336,7 +336,7 @@ Chocobo      (Level 1) |
 
 Total Game Time: 28:50 (28 Hours and 50 Minutes, Now THAT's dedication!)
 
-Note from editor: Yes, that's dedication. I am myself pretty impressed.
+*Yes, that's pretty insane dedication indeed.*
 
 As you can see, we're gaining a healthy set of Magic Materia. We have another
 boss to set up for. Let's Gooooooo!

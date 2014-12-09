@@ -646,7 +646,10 @@ leave Midgar...
 
 [**Back to previous part**][1]
 
+[**Proceed with next part**][2]
+
 [**Back to Index**][3]
 
 [1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#7---the-glorious-world-map
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

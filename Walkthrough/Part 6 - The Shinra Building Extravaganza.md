@@ -163,8 +163,8 @@ You want to get it right on the first try so we can get the Elemental materia.
 This will make some fights SO much easier, yet so much more hindering, since
 it reduces your stats SOOOO terribly.
 
-On Floor 63, we get a free pass. The minigame is disabled, for whatever
-reason. On Floor 64, we have 3 Hidden Items to get:
+On Floor 63, we get a free pass. There's a minigame, but I wasn't able to do
+it for some reason. On Floor 64, we have 3 Hidden Items to get:
 
 Energy Drinks:
 
@@ -289,9 +289,7 @@ Let's go to Floor 66! There's 2 Hidden Items here:
 
 To climb up in the toilet room, talk to every NPC you can talk to on Floor 66.
 That unlocks the option in the dialog. Climb up, and watch the scenes. I was
-able to follow it up until Hojo was mentioning other specimens. I THINK those
-were Blue XIV and Indigo XV, clones of Red XIII that are in Dirge of Cerberus.
-I think. I don't know, I never played Dirge.
+able to follow it up until Hojo was mentioning other specimens.
 
 On Floor 67, there's 2 Hidden Items:
 
@@ -428,8 +426,7 @@ healing, instead of throwing Grenades. Cloud still attacks, Tifa still uses
 Blizzard. BE CAREFUL, THOUGH! Prioritize healing over damage, or else this
 Zolom will wreck you.
 
-For winning, you get 2000 EXP, 200 AP, and not much else. Stealing doesn't
-work for some reason, so you can't get his Mega Lixir.
+For winning, you get 2000 EXP, 200 AP, and not much else.
 
 Holy- is very useful, give it to Aerith. Also fully heal yourself, it's very
 easy to die at this point. Holy- lets you revive, making Phoenix Downs a
@@ -444,9 +441,9 @@ have 2 Hidden Items:
 
 Near the Save Point, there is a door. Up there are 2 Vending Machines. The
 left one seems to always give you a Potion, and the right one seems to give
-you nothing. I must be missing something. Anyway, head up to Floor 70.
-Approach Shinra's desk, and watch the cutscene. Afterwards, there's a Hidden
-Item to grab:
+you nothing. There's a minigame here, but I couldn't figure it out. Anyway,
+head up to Floor 70. Approach Shinra's desk, and watch the cutscene.
+Afterwards, there's a Hidden Item to grab:
 
 2000 Gil:
 
@@ -558,9 +555,10 @@ You should already know what the Shinra Limited Edition does. The Fury Ring
 puts the wearer in Berserk, increases his Strength and Vitality by 50, and
 makes them immune to Confusion and Darkness. Our best accessory yet!
 
-I know you're not too interested in dying, so give Cloud a Lixir. The chest in
-the back has a Tent. Leave the screen, and we'll take control of Aerith. Head
-out to the front door, and watch the cutscenes.
+I know you're not too interested in dying, so give Cloud a Lixir. There SHOULD
+be a save point after Rufus is defeated. Maybe Kuugen didn't upload that change.
+The chest in the back has a Tent. Leave the screen, and we'll take control of
+Aerith. Head out to the front door, and watch the cutscenes.
 
 Time for the motorcycle minigame. We're gonna set up hardcore for this next
 boss fight. If we die now, it means having to start back at the Gunners. And

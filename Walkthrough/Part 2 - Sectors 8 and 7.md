@@ -185,6 +185,6 @@ Sector 7.
 
 [**Back to Index**][3]
 
-[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%201%20-%20Reactor%201.md
-[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%201%20-%20Reactor%201.md#part-1---reactor-1
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md#part-3---reactor-5
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

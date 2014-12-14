@@ -170,7 +170,10 @@ Use a Tent, save, and head on to Mt. Corel.
 
 [**Back to previous part**][1]
 
+[**Proceed with next part**][2]
+
 [**Back to Index**][3]
 
-[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#7---the-glorious-world-map
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#part-7---the-glorious-world-map
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%209%20-%20The%20Oasis%20in%20the%20Desert.md#part-9---the-oasis-in-the-desert
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

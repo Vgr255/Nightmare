@@ -1,4 +1,4 @@
-# 7 - The Glorious World Map
+# Part 7 - The Glorious World Map
 
 Recommended Level: |
 --------------------
@@ -396,6 +396,6 @@ save.
 
 [**Back to Index**][3]
 
-[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#6---the-shinra-building-extravaganza
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#part-6---the-shinra-building-extravaganza
 [2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%208%20-%20Junon,%20Chewnon.md#part-8---junon-chewnon
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

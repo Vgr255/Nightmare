@@ -1,4 +1,4 @@
-# 6 - The Shinra Building Extravaganza!
+# Part 6 - The Shinra Building Extravaganza!
 
 Recommended Level: |
 --------------------
@@ -648,6 +648,6 @@ leave Midgar...
 
 [**Back to Index**][3]
 
-[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md
-[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#7---the-glorious-world-map
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md#part-5---train-graveyard-and-top-of-the-pillar
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#part-7---the-glorious-world-map
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

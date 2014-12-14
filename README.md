@@ -22,6 +22,8 @@ This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread 
 
 [Part 8 - Junon, Chewnon][w8]
 
+[Part 9 - The Oasis in the Desert][w9]
+
 #### Equipment
 
 [Weapons][e1]
@@ -59,9 +61,10 @@ This guide is updated by NeuroSephiroth and maintained by Vgr. [Original thread 
 [w3]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%203%20-%20Reactor%205.md#part-3---reactor-5
 [w4]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%204%20-%20Sector%205%20and%20Wall%20Market.md#part-4---sector-5-and-wall-market
 [w5]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%205%20-%20Train%20Graveyard%20and%20Top%20of%20the%20Pillar.md#part-5---train-graveyard-and-top-of-the-pillar
-[w6]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#6---the-shinra-building-extravaganza
-[w7]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#7---the-glorious-world-map
+[w6]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#part-6---the-shinra-building-extravaganza
+[w7]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#part-7---the-glorious-world-map
 [w8]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%208%20-%20Junon,%20Chewnon.md#part-8---junon-chewnon
+[w9]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%209%20-%20The%20Oasis%20in%20the%20Desert.md#part-9---the-oasis-in-the-desert
 
 [e1]: https://github.com/Vgr255/Nightmare/blob/master/Equipment/Weapons.md
 [e2]: https://github.com/Vgr255/Nightmare/blob/master/Equipment/Armor.md

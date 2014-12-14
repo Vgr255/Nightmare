@@ -120,5 +120,5 @@ Wall Market and save.
 [**Back to Index**][3]
 
 [1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%204%20-%20Sector%205%20and%20Wall%20Market.md#part-4---sector-5-and-wall-market
-[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#6---the-shinra-building-extravaganza
+[2]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%206%20-%20The%20Shinra%20Building%20Extravaganza.md#part-6---the-shinra-building-extravaganza
 [3]: https://github.com/Vgr255/Nightmare#walkthrough

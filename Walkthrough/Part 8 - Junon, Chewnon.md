@@ -91,6 +91,7 @@ Spread |
 Spread=Spread |
 
 Tifa: |
+-------
 Restore=Spread |
 Protect=Spread |
 Ice |
@@ -166,3 +167,10 @@ Analyse |
 Dark |
 
 Use a Tent, save, and head on to Mt. Corel.
+
+[**Back to previous part**][1]
+
+[**Back to Index**][3]
+
+[1]: https://github.com/Vgr255/Nightmare/blob/master/Walkthrough/Part%207%20-%20The%20Glorious%20World%20Map.md#7---the-glorious-world-map
+[3]: https://github.com/Vgr255/Nightmare#walkthrough
